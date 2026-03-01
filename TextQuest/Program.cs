@@ -10,7 +10,7 @@ namespace TextQuest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Тест");
+            Console.WriteLine("Тест"); 
         }
     }
 }
